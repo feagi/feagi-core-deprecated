@@ -1,8 +1,0 @@
-
-
-- Growth rules
-    - Mapping multiple layers to a single
-    - f
-- Performance estimation formula
-- Proof of scalability and modularity
-

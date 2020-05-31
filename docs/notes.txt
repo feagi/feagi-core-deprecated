@@ -1,0 +1,42 @@
+
+How to cap the membrane potential from going above a limit??
+    By firing the neuron
+
+Should the leak coefficient be a percentage of x?
+
+Should we have a leak function instead of a leak coefficient?
+
+
+
+
+# filter for memory formations
+grep "neighbor" vision_memory.json | grep -v "{}"
+
+# filter for memory formations contineously
+tail -f vision_memory.json | grep "neighbor" | grep -v "{}"
+
+
+
+###### Influxdb
+
+brew services start cronograf
+chronograf
+
+
+
+
+
+###### Grafana
+
+brew services start grafana
+/usr/local/etc/grafana/bin/grafana-server start
+
+
+
+
+
+###### Mongodb
+
+
+
+

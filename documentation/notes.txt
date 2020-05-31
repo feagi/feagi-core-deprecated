@@ -1,8 +1,0 @@
-
-How to cap the membrane potential from going above a limit??
-    By firing the neuron
-
-Should the leak coefficient be a percentage of x?
-
-Should we have a leak function instead of a leak coefficient?
-

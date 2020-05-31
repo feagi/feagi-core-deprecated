@@ -1,4 +1,0 @@
-Defect 1:
-    -Auto training rounds is not waiting for a complete set. It is starting the next round prematurely.
-
-
